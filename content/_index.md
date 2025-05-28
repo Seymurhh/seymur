@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-    I'm a mechanical engineer with expertise in advanced manufacturing, materials engineering, and mechanical design. I'm passionate about integrating AI, deep learning, and       data science into engineering to create innovative and intelligent solutions.
+    
+      I'm a mechanical engineer with expertise in advanced manufacturing, materials engineering, and mechanical design. I'm passionate about integrating AI, deep learning, and       data science into engineering to create innovative and intelligent solutions.
 
-    My projects include applications of AI for automated detection, predictive modeling, and optimization in manufacturing processes. I love collaborating on cutting-edge          problems at the intersection of engineering and artificial intelligence—let’s connect!
+      My projects include applications of AI for automated detection, predictive modeling, and optimization in manufacturing processes. I love collaborating on cutting-edge          problems at the intersection of engineering and artificial intelligence—let’s connect!
     
     design:
       columns: '1'
