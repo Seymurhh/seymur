@@ -178,4 +178,4 @@ awards:
 
 ## About Me
 
-Seymur Hasanov is an Assistant Director of Undergraduate Studies and Lecturer at Harvard University, SEAS. His research interests include material design and manufacturing, data-driven optimization and the role of AI in technology.
+I am an Assistant Director of Undergraduate Studies and Lecturer at Harvard University, SEAS. My research interests include material design and manufacturing, data-driven optimization and the role of AI in technology. You can reach me at [he.seymur@gmail.com](mailto:he.seymur@gmail.com).
