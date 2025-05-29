@@ -3,7 +3,7 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation:SAY-muor Ha-sa-nov
+name_pronunciation: SAY-muor Ha-sa-nov
 
 # Full name (for SEO)
 first_name: Seymur
