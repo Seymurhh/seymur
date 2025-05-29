@@ -129,11 +129,11 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: man-in-bicycle
+        icon: fa-bicycle
       - name: Chess
         description: ''
         percent: 80
-        icon: chess
+        icon: fa-chess
 
 languages:
   - name: English
