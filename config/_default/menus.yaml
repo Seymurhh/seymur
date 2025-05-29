@@ -11,7 +11,7 @@ main:
     url: /#papers
     weight: 11
   - name: Blog
-    url: /#talks
+    url: /#post
     weight: 12
 #  - name: Updates
 #    url: /#news
