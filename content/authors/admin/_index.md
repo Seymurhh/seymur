@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Seymur Hasanov
 
 # Name pronunciation (optional)
 name_pronunciation: SAY-muor Ha-sa-nov
