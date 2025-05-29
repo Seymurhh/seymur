@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mechanical Engineer
+role: PhD in Mechanical Engineering | MS in Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
