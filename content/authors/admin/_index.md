@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:SAY-muor Ha-sa-nov
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Seymur
+last_name: Hasanov
 
 # Status emoji
 status:
@@ -20,92 +20,85 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: AI-driven Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Harvard University
+    url: https://seas.harvard.edu/materials-science-mechanical-engineering
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:he.seymur@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Seymurhh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/seymurh/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=5dYjfjsAAAAJ&hl=en
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Seymur-Hasanov-2?ev=hdr_xprf
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Design
+  - Advanced Manufacturing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Mechanical Engineering
+    institution: Tennessee Tech University
+    date_start: 2018-08-20
+    date_end: 2021-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Design and Manufacturing of Multi-Material COmposites_. Supervised by [Prof Ismail Fidan](https://www.tntech.edu/directory/engineering/faculty/ismail-fidan.php). Presented papers at SFF conferences with the contributions being published in variety of impactful journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master in Data Science
+    institution: Harvard University, Extension School
+    date_start: 2024-01-22
+    date_end: 2026-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.9/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - CSCI E-104 - Advacned Deep Learning
+      - CSCI E-25 - Computer Vision
+      - DGMD-17 - Robotics, Autonomous Vehicles, Drones and Artificial Intelligence
+      - CSCI E-89 - Deep Reinforcement Learning
+  - area: BSc Industrial Engineering
+    institution: Baku Engineering University
+    date_start: 2007-09-15
+    date_end: 2012-05-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 4.0/4.0
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Director of Undergraduate Studies | Lecturer in Mechanical Engineering
+    company_name: Harvard University, School of Engineering and Applied Sciences
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-03
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Teaching ES-51 - Computer Aided Machine Design, ES 192 Material Selection by Design courses
+      - Advising and mentoring ES 100 Capstone student projects
+      - Reviewing and enhancing undergradaute engineering curriculum
+  - position: Assistant Professor of Engineering Technology
+    company_name: University of Alabama in Huntsville
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-08-03
+    date_end: 2022-12-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Taught undergradaute engineering courses such as mechanical desgin, manufacturing, dynamics, mechanics of materials
+      - Developed an engineering technology lab to support courses
+      - Developed VR/AR educational tools to support engineering courses
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -132,21 +125,23 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cycling
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: man-in-bicycle
+      - name: Chess
         description: ''
         percent: 80
-        icon: camera
+        icon: chess
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Azerbijani
+    percent: 100
+  - name: Turkish
+    percent: 100
+  - name: Russian
     percent: 25
 
 # Awards.
@@ -183,4 +178,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Seymur Hasanov is an Assistant Director of Undergraduate Studies and Lecturer at Harvard University, SEAS. His research interests include material design and manufacturing, data-driven optimization and the role of AI in technology.
