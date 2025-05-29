@@ -3,7 +3,7 @@
 title: Seymur Hasanov
 
 # Name pronunciation (optional)
-name_pronunciation: SAY-muor Ha-sa-nov
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Seymur
@@ -24,7 +24,7 @@ role: PhD in Mechanical Engineering | MS in Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Harvard University
+  - name: Harvard John A. Paulson School of Engineering and Applied Sciences
     url: https://seas.harvard.edu/materials-science-mechanical-engineering
 
 # Social network links
