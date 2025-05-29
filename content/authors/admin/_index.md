@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI-driven Engineer
+role: Mechanical Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:he.seymur@gmail.com'
+    url: 'mailto: he.seymur@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Seymurhh
