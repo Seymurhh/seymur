@@ -44,6 +44,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
+  - Computer Vision
   - Machine Design
   - Advanced Manufacturing
 
