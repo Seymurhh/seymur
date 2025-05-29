@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Seymur's Example Talk
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
