@@ -38,10 +38,7 @@ Experimental and numerical results confirmed that fiber distribution and gradien
 ### 🛠 Tools & Methods:
 - Multiple regression for design optimization
 - Homogenization and stiffness prediction
-- Digital image correlation and SEM imaging for validation
-- ABAQUS and Python for simulation
+- SEM imaging for validation
+- ANSYS and Matlab for simulation
 
 ![FGM Diagram](https://lh4.googleusercontent.com/GHDLp9R4BpZVhk7cIf-wu70I-Au3gOYwW0XKFUtayaK4TnFWEm8R_fYYWgyLmtV41CH9xa8fgVNJFuxdMquAZgo=w1280)
-
-
-![Featured Image](fgm1.png)
