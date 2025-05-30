@@ -20,7 +20,7 @@ main:
     url: post/
     weight: 20
   - name: Publications
-    url: papers/
+    url: /#papers
     weight: 30
   - name: Courses
     url: teaching/
