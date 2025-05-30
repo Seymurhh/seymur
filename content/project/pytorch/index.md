@@ -1,6 +1,6 @@
 ---
 title: Interface Strength Modeling in FGMs
-date: 2025-05-30
+date: 2022-04-25
 external_link: ''
 tags:
   - research
