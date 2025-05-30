@@ -183,4 +183,4 @@ languages:
 
 ## About Me
 
-I'm a mechanical engineer and data scientist with experience in teaching, mentoring, and leading research in material design, manufacturing, and AI-driven optimization. Currently serving as Assistant Director of Undergraduate Studies and Lecturer at Harvard SEAS, I'm now seeking to apply my technical and leadership skills to impactful roles in industry.
+I'm a mechanical engineer and data scientist with experience in teaching, mentoring, and doing research in material design, manufacturing, and AI-driven optimization. Currently serving as Assistant Director of Undergraduate Studies and Lecturer at Harvard SEAS, I'm now seeking to apply my technical and leadership skills to impactful roles in industry.
