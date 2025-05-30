@@ -133,7 +133,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Engineering
-        description: Solidworks (CSWE), ANSYS, SpaceClaim, Fusion360, AutoCAD, Python-Fenics
+        description: Solidworks (CSWE), ANSYS, SpaceClaim, Fusion360, AutoCAD, Pre-Pro-Max
         percent: 95
         icon: eng
       - name: Coding tools
