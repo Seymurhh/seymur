@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research and Industry Interests'
       subtitle: ''
       text: |-
-I work on developing advanced materials and manufacturing solutions using additive manufacturing, AI, and data-driven design. My goal is to bridge research and real-world application—solving meaningful problems that improve how we design, build, and live.
+        I work on developing advanced materials and manufacturing solutions using additive manufacturing, AI, and data-driven design.
+        My goal is to bridge research and real-world application—solving meaningful problems that improve how we design, build, and live.
 
-I'm especially interested in using AI and automation to enhance product performance, sustainability, and decision-making in engineering. I also enjoy writing about design, manufacturing, and intelligent technologies.
+        I'm especially interested in using AI and automation to enhance product performance, sustainability, and decision-making in engineering.
+        I also enjoy writing about design, manufacturing, and intelligent technologies.
 
 Let’s connect if you’re working on something impactful!
     design:
