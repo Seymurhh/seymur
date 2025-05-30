@@ -132,16 +132,20 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Engineering
+        description: Solidworks (CSWE), ANSYS, SpaceClaim, Fusion360, AutoCAD, Python-Fenics
+        percent: 95
+        icon: engineering
+      - name: Coding tools
+        description: Python, Matlab, Pytorch, Tensorflow, Keras, SQL, scikit-learn, SparkML, LangChain, LlamaIndex
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Cloud
+        description: AWS, Docker, Azure, Snowflakes
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
+      - name: Data
+        description: Tableau, Streamlit, KPI Design, Apache Airflow
         percent: 40
         icon: circle-stack
   - name: Hobbies
