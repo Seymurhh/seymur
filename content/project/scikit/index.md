@@ -1,7 +1,7 @@
 ---
 title: Virtual Lab for Engineering Classrooms
 date: 2025-05-30
-external_link: https://www.ammdl.com/projects
+external_link: ''
 tags:
   - virtual reality
   - engineering education
