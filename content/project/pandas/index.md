@@ -41,4 +41,4 @@ Experimental and numerical results confirmed that fiber distribution and gradien
 - Digital image correlation and SEM imaging for validation
 - ABAQUS and Python for simulation
 
-![Featured Image](featured.png)
+![Featured Image](fgm1.png)
