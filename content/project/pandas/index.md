@@ -1,6 +1,6 @@
 ---
 title: Functionally Graded Additive Manufacturing
-date: 2025-05-29
+date: 2022-02-23
 external_link: ''
 tags:
   - research
