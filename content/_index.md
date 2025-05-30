@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research and Interests'
+      title: '📚 My Research and Industry Interests'
       subtitle: ''
       text: |-
-        I'm a lecturer and assistant director of undergraduate studies in mechanical engineering at Harvard SEAS. I teach design and manufacturing courses to undergraduate students. My         research is to design and develop next generation of functional additively manufactured composite materials. I blog about design, manufacturing, machine learning, deep learning         and artificial intelligence. 
+I work on developing advanced materials and manufacturing solutions using additive manufacturing, AI, and data-driven design. My goal is to bridge research and real-world application—solving meaningful problems that improve how we design, build, and live.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of AI in science and technology.
-        
-        Please reach out to collaborate 😃
+I'm especially interested in using AI and automation to enhance product performance, sustainability, and decision-making in engineering. I also enjoy writing about design, manufacturing, and intelligent technologies.
+
+Let’s connect if you’re working on something impactful!
     design:
       columns: '1'
   - block: collection
