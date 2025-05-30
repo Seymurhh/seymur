@@ -148,6 +148,7 @@ skills:
         description: Tableau, Streamlit, KPI Design, Apache Airflow
         percent: 40
         icon: circle-stack
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
