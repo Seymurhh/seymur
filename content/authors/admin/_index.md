@@ -104,6 +104,28 @@ work:
       - Developed an engineering technology lab to support courses
       - Developed VR/AR educational tools to support engineering courses
       - Adviced and mentored senior capstone design projects
+  - position: Research Assistant/Graduate Researcher
+    company_name: Center for Manufacturing Research - Tennessee Tech University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-08-24
+    date_end: 2021-07-15
+    summary: |
+      Responsibilities include:
+      - Designed functionally graded composite materials for variety of applications in industry
+      - Developed computational model for effective FGM simulations and conducted mechanical, thermal characterizations.
+      - Designed and developed VR educational modules for NSF-funded projects.
+  - position: Mechanical Engineer
+    company_name: PMD Projects LLC
+    company_rul: ''
+    company_logo: ''
+    date_start: 2016-07-01
+    date_end: 2018-08-03
+    summary: |
+      Responsibilities include:
+      - Led mechanical design and analysis of HVAC systems, including component selection and system layout.
+      - Conducted performance simulations and on-site testing to optimize thermal and fluid performance.
+      - Collaborated with fabrication teams to align designs with manufacturing capabilities and installation constraints.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
