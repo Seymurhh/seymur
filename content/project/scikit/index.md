@@ -1,11 +1,10 @@
 ---
 title: Virtual Lab for Engineering Classrooms
-date: 2025-05-30
+date: 2021-09-30
 external_link: ''
 tags:
   - virtual reality
   - engineering education
-  - NSF project
   - unreal engine
   - simulation
 ---
@@ -31,7 +30,7 @@ The VR system consists of three interconnected spaces:
 - Ensured VR compatibility and usability in a classroom setting (supporting Oculus Quest and desktop VR).
 
 ### 🚀 Impact
-- Enabled over 100 students to access complex manufacturing and testing processes virtually.
+- Enabled over 100 students to access manufacturing and testing processes virtually.
 - Provided a **cost-effective and scalable alternative** to physical lab access.
 - Improved student engagement and conceptual understanding in courses like **mechanical design, manufacturing processes, and materials testing**.
 
