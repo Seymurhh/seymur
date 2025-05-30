@@ -132,10 +132,10 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Engineering
+      - name: 🛠️ Engineering
         description: Solidworks (CSWE), ANSYS, SpaceClaim, Fusion360, AutoCAD, Pre-Pro-Max
         percent: 95
-        icon: custom/eng.png
+        icon: ''
       - name: Coding tools
         description: Python, Matlab, Pytorch, Tensorflow, Keras, SQL, scikit-learn, SparkML, LangChain, LlamaIndex
         percent: 80
@@ -156,14 +156,17 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cycling
+      - name: 🚴 Cycling
         description: ''
         percent: 100
-        icon: cycling
-      - name: Chess
+        icon: ''
+      - name: ♟️ Chess
         description: ''
         percent: 80
-        icon: chess-pawn
+        icon: ''
+      - name: 🎾 Tennis
+        desciption: ''
+        icon: ''
 
 languages:
   - name: English
