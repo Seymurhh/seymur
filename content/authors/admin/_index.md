@@ -20,10 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Mechanical Engineering | MS in Data Science
+role: PhD in Mechanical Engineering | Master in Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - [he.seymur@gmail.com](mailto:he.seymur@gmail.com)
   - name: Harvard John A. Paulson School of Engineering and Applied Sciences
     url: https://seas.harvard.edu/materials-science-mechanical-engineering
 
