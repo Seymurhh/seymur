@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: |
-  PhD in Mechanical Engineering | Master in Data Science
+  PhD in Mechanical Engineering | Master in Data Science /n
   [he.seymur@gmail.com](mailto:he.seymur@gmail.com)
 
 # Organizations/Affiliations to display in Biography blox
@@ -181,4 +181,4 @@ awards:
 
 ## About Me
 
-I am an Assistant Director of Undergraduate Studies and Lecturer at Harvard University, SEAS. My research interests include material design and manufacturing, data-driven optimization and the role of AI in technology. You can reach me at [he.seymur@gmail.com](mailto:he.seymur@gmail.com).
+I am an Assistant Director of Undergraduate Studies and Lecturer at Harvard University, SEAS. My research interests include material design and manufacturing, data-driven optimization and the role of AI in technology. 
