@@ -135,7 +135,7 @@ skills:
       - name: Engineering
         description: Solidworks (CSWE), ANSYS, SpaceClaim, Fusion360, AutoCAD, Pre-Pro-Max
         percent: 95
-        icon: assets/media/icons/eng.svg
+        icon: custom/eng.png
       - name: Coding tools
         description: Python, Matlab, Pytorch, Tensorflow, Keras, SQL, scikit-learn, SparkML, LangChain, LlamaIndex
         percent: 80
