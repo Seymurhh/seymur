@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Mechanical Engineering | Master in Data Science
+role: |
+  PhD in Mechanical Engineering | Master in Data Science
+  [he.seymur@gmail.com](mailto:he.seymur@gmail.com)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
