@@ -29,7 +29,7 @@ A three-scale homogenization framework was implemented:
 - **Mesoscale**: Captured interbead voids and material distributions.
 - **Macroscale**: Applied graded material properties in a finite element solver to simulate stress and deformation.
 
-> 📈 *See page 113, Fig. 6.8 in the dissertation*: Predicted stress distribution at various gradient lengths shows clear reduction in stress concentrations in graded designs compared to sharp interfaces.
+> 📈 *See Figure below: Predicted stress distribution at various gradient lengths shows clear reduction in stress concentrations in graded designs compared to sharp interfaces.
 
 ### 📊 Summary of Achievements
 - Developed a multi-scale modeling pipeline that accurately predicts interface strength.
@@ -39,4 +39,4 @@ A three-scale homogenization framework was implemented:
 ### 🏁 Outcome
 This modeling approach provides a validated method for designing stronger, more reliable FGMs—particularly useful for high-performance applications in aerospace, biomedical, and automotive industries.
 
-![Stress Distribution Comparison]([https://lh4.googleusercontent.com/GHDLp9R4BpZVhk7cIf-wu70I-Au3gOYwW0XKFUtayaK4TnFWEm8R_fYYWgyLmtV41CH9xa8fgVNJFuxdMquAZgo=w1280](https://lh3.googleusercontent.com/JJkLIAQE5nPRbuSHaRMmz1zgrbJN0zhO-1fbr3hr419IDspcQH-zXcYUXrWNmMPuD9Jo6TVJqVHqXzDebUGKw4uy_5Ac7u0Y2yTUNJaiCOE9tK9uoQ5qBkWeprGRduyiiTliNZWMUSi8S4erU7iDuGtfOGRYu69MR7ngAlCR4NnTYnTNa231-A=w1280))
+![Stress Distribution Comparison](https://lh3.googleusercontent.com/JJkLIAQE5nPRbuSHaRMmz1zgrbJN0zhO-1fbr3hr419IDspcQH-zXcYUXrWNmMPuD9Jo6TVJqVHqXzDebUGKw4uy_5Ac7u0Y2yTUNJaiCOE9tK9uoQ5qBkWeprGRduyiiTliNZWMUSi8S4erU7iDuGtfOGRYu69MR7ngAlCR4NnTYnTNa231-A=w1280)
