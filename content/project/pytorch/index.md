@@ -34,9 +34,7 @@ A three-scale homogenization framework was developed:
 - **Microscale**: Captured fiber morphology and orientation using representative volume elements (RVEs).
 - **Mesoscale**: Modeled interbead voids and composite behavior across layers.
 - **Macroscale**: FE simulations of tensile specimens using graded material properties.
-- 
-![Stress Distribution Comparison](https://lh3.googleusercontent.com/JJkLIAQE5nPRbuSHaRMmz1zgrbJN0zhO-1fbr3hr419IDspcQH-zXcYUXrWNmMPuD9Jo6TVJqVHqXzDebUGKw4uy_5Ac7u0Y2yTUNJaiCOE9tK9uoQ5qBkWeprGRduyiiTliNZWMUSi8S4erU7iDuGtfOGRYu69MR7ngAlCR4NnTYnTNa231-A=w1280)
-
+  ![Stress Distribution Comparison](https://lh3.googleusercontent.com/JJkLIAQE5nPRbuSHaRMmz1zgrbJN0zhO-1fbr3hr419IDspcQH-zXcYUXrWNmMPuD9Jo6TVJqVHqXzDebUGKw4uy_5Ac7u0Y2yTUNJaiCOE9tK9uoQ5qBkWeprGRduyiiTliNZWMUSi8S4erU7iDuGtfOGRYu69MR7ngAlCR4NnTYnTNa231-A=w1280)
 📈 *Figure 1*: Predicted stress distribution at various gradient lengths shows a clear reduction in interfacial stress concentrations in graded designs compared to sharp material transitions.
 
 ### ✅ Key Findings
