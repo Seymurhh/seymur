@@ -41,7 +41,8 @@ sections:
         I'm especially interested in using AI and automation to enhance product performance, sustainability, and decision-making in engineering.
         I also enjoy writing about design, manufacturing, and intelligent technologies.
 
-Let’s connect if you’re working on something impactful!
+        Let’s connect if you’re working on something impactful!
+    
     design:
       columns: '1'
   - block: collection
