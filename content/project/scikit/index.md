@@ -38,5 +38,5 @@ The VR system consists of three interconnected spaces:
 ### 📍 Project Link
 Learn more: [https://www.ammdl.com/projects](https://lh3.googleusercontent.com/tdswL-cnypbxWDjBPvhhlffyMPWxy2JMZGMViNNm9W-y6R9YOiHxs6IrfOBLpUUw-GkGr50pTiHq_HfDvKjBE3eWoS-CLYqba7Z1Nit_CuWkQC9PUBaw5v36CDOM5yUazA=w1280)
 
-![Virtual Lab Overview](f1094bf6-0f42-4a7b-b167-98de6edfd76e.png)
+![Virtual Lab Overview](featured.png)
 
