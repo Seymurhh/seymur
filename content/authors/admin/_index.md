@@ -153,10 +153,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 🥾 Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: '' 
       - name: 🚴 Cycling
         description: ''
         percent: 100
