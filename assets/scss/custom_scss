@@ -1,0 +1,16 @@
+/* Make the skills section columns spaced evenly and look less cramped */
+.skill .row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.skill .col-md-6 {
+  flex: 1 1 48%;
+}
+
+/* Optional: Give hobby icons a bit of spacing */
+.skill .col-md-6 ul li {
+  margin-bottom: 0.5rem;
+}
