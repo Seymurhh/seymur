@@ -24,7 +24,7 @@ tags:
 - Mechanical Testing
 - 3D Printing
 
-url_pdf: "https://doi.org/10.1016/j.jmapro.2020.09.011"
+url_pdf: "content/publication/journal-article/Mechanical Characterization of FGMs.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
