@@ -1,27 +1,30 @@
 ---
-title: "Characterization of polymer-based functionally graded materials fabricated by additive manufacturing"
+title: "Mechanical characterization of functionally graded materials produced by the fused filament fabrication process"
 authors:
 - Seymur Hasanov
+- Ankit Gupta
+- Aslan Nasirov
 - Ismail Fidan
-- Michael Allen
-date: "2020-11-10"
-publishDate: "2020-11-10"
-doi: "10.1016/j.jmapro.2020.11.034"
+date: 2020-10-01
+publishDate: 2020-10-01
+doi: "10.1016/j.jmapro.2020.09.011"
 
 publication_types: ["article-journal"]
-publication: "*Journal of Manufacturing Processes*"
+publication: "*Journal of Manufacturing Processes, Volume 58*"
 publication_short: "J. Manuf. Process."
 
-abstract: This research explores the use of Fused Filament Fabrication (FFF) to create polymer-based functionally graded materials (FGMs). Various gradients, material pairings, and transition techniques were evaluated for their effect on mechanical performance, interfacial strength, and manufacturing feasibility.
+abstract: |
+  In this research study, the design and fabrication workflow of functionally graded materials (FGMs) were introduced using fused filament fabrication (FFF) process. Rigid polymers were mechanically characterized in three printing directions. Tensile strength and modulus of elasticity values for YZ and XY printing orientation specimens indicated similar results. Printing in the XZ direction showed poor strength values in comparison with other directions. Interface analysis with different transition patterns was accomplished and the advantage of gradient transition was achieved. Micrography of specimens was analyzed to investigate the internal structure and was used to validate test results. Statistical methods were applied to investigate the relationship between process and performance.
 
-summary: Study on functionally graded polymer materials using additive manufacturing, focusing on mechanical characterization and interfacial behavior.
+summary: Mechanical testing and interface analysis of functionally graded polymer materials fabricated by the FFF process.
 
 tags:
 - Functionally Graded Materials
 - Additive Manufacturing
-- FFF
+- Mechanical Testing
+- 3D Printing
 
-url_pdf: "https://doi.org/10.1016/j.jmapro.2020.11.034"
+url_pdf: "https://doi.org/10.1016/j.jmapro.2020.09.011"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -31,7 +34,7 @@ url_source: ""
 url_video: ""
 
 image:
-  caption: 'Image credit: ScienceDirect'
+  caption: 'Image credit: Journal of Manufacturing Processes / Elsevier'
   focal_point: ""
   preview_only: false
 
