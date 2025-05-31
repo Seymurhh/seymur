@@ -43,9 +43,9 @@ sections:
 
         Let’s connect if you’re working on something impactful!
  
-#    design:
-#      columns: '1'
-#  - block: collection
+    design:
+      columns: '2'
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -56,6 +56,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+      
 # - block: collection
     content:
       title: Recent Publications
