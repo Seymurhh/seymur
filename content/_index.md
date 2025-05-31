@@ -42,8 +42,7 @@ sections:
         I also enjoy writing about design, manufacturing, and intelligent technologies.
 
         Let’s connect if you’re working on something impactful!
-     design:
-      columns: 2   
+ 
 #    design:
 #      columns: '1'
 #  - block: collection
