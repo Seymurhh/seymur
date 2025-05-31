@@ -24,7 +24,7 @@ tags:
 - Mechanical Testing
 - 3D Printing
 
-url_pdf: "content/publication/journal-article/Mechanical Characterization of FGMs.pdf"
+url_pdf: "publication/journal-article/Mechanical Characterization of FGMs.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
