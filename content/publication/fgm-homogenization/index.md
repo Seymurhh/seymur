@@ -1,10 +1,10 @@
 ---
 title: "Hierarchical homogenization and experimental evaluation of functionally graded materials manufactured by the fused filament fabrication process"
 authors:
-- Seymur Hasanov
-- Ankit Gupta
-- Frank Alifui-Segbaya
-- Ismail Fidan
+- Hasanov S.
+- Gupta A.
+- Alifui-Segbaya F.
+- Fidan I.
 date: 2021-11-01
 publishDate: 2021-11-01
 doi: "10.1016/j.compstruct.2021.114488"
