@@ -1,10 +1,10 @@
 ---
 title: "Processing, mechanical characterization, and micrography of 3D-printed short carbon fiber reinforced polycarbonate polymer matrix composite material"
 authors:
-- Ankit Gupta
-- Ismail Fidan
-- Seymur Hasanov
-- Aslan Nasirov
+- Gupta A.
+- Hasanov S.
+- Nasirov A.
+- Fidan I.
 date: 2020-04-11
 publishDate: 2020-04-11
 doi: "10.1007/s00170-020-05195-z"
