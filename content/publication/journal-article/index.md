@@ -1,10 +1,10 @@
 ---
 title: "Mechanical characterization of functionally graded materials produced by the fused filament fabrication process"
 authors:
-- Seymur Hasanov
-- Ankit Gupta
-- Aslan Nasirov
-- Ismail Fidan
+- Hasanov S.
+- Gupta A.
+- Nasirov A.
+- Fidan I.
 date: 2020-10-01
 publishDate: 2020-10-01
 doi: "10.1016/j.jmapro.2020.09.011"
