@@ -1,14 +1,10 @@
 ---
 title: "Review on Additive Manufacturing of Multi-Material Parts: Progress and Challenges"
 authors:
-- Seymur Hasanov
-- Suhas Alkunte
-- Mithila Rajeshirke
-- Ankit Gupta
-- Orkhan Huseynov
-- Ismail Fidan
-- Frank Alifui-Segbaya
-- Allan Rennie
+- Hasanov S.
+- Alkunte S.
+- et al.
+
 date: 2021-12-27
 publishDate: 2021-12-27
 doi: "10.3390/jmmp6010004"
