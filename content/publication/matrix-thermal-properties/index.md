@@ -1,9 +1,9 @@
 ---
 title: "Influence of the matrix material on the thermal properties of the short carbon fiber reinforced polymer composites manufactured by material extrusion"
 authors:
-- Orkhan H
-- Seymur H
-- Ismail F
+- Huseynov O.
+- Hasanov S.
+- Fidan I.
 date: 2023-04-28
 publishDate: 2023-04-28
 doi: "10.1016/j.jmapro.2023.02.055"
